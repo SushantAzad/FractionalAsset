@@ -1,5 +1,18 @@
 # 🏠 Fractional Asset
 
+![React](https://img.shields.io/badge/React-18+-blue?logo=react)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v3.0-blue?logo=tailwind-css)  
+![Vite](https://img.shields.io/badge/Vite-4+-yellow?logo=vite)  
+![Node.js](https://img.shields.io/badge/Node.js-16+-green?logo=node.js)  
+![License](https://img.shields.io/badge/License-MIT-green)  
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen)  
+
+**Fractional Asset** is a revolutionary web application that democratizes real estate investment in India by enabling fractional ownership of properties through asset tokenization technology. Inspired by **NPCI's asset tokenization initiatives**, this platform allows users to buy as little as **1% of a property**, making premium real estate accessible to everyone.
+
+Just like owning shares in a company, users can own **digital tokens representing fractions of real estate assets**, with ownership cryptographically secured on a decentralized network. The platform transforms traditionally illiquid assets into **liquid, tradeable tokens** that can be transferred instantly – similar to sending money via UPI.
+
+---
+
 **Fractional Asset** is a revolutionary web application that democratizes real estate investment in India by enabling fractional ownership of properties through asset tokenization technology. Inspired by **NPCI's asset tokenization initiatives**, this platform allows users to buy as little as **1% of a property**, making premium real estate accessible to everyone.
 
 Just like owning shares in a company, users can own **digital tokens representing fractions of real estate assets**, with ownership cryptographically secured on a decentralized network. The platform transforms traditionally illiquid assets into **liquid, tradeable tokens** that can be transferred instantly – similar to sending money via UPI.
